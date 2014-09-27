@@ -1,0 +1,538 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"req",
+				"require"
+			],
+			[
+				"re",
+				"redirec"
+			],
+			[
+				"e",
+				"err"
+			],
+			[
+				"se",
+				"session"
+			],
+			[
+				"use",
+				"user"
+			],
+			[
+				"ex",
+				"exec"
+			],
+			[
+				"ha",
+				"hashPW"
+			],
+			[
+				"user",
+				"user"
+			],
+			[
+				"mon",
+				"mongoose"
+			],
+			[
+				"coo",
+				"cookieParser"
+			],
+			[
+				"bod",
+				"bodyParser"
+			],
+			[
+				"Use",
+				"UserSchema"
+			],
+			[
+				"stat",
+				"static"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"s",
+				"script	Tag"
+			],
+			[
+				"sto",
+				"stompPort"
+			],
+			[
+				"ca",
+				"callbackSubscriber"
+			],
+			[
+				"st",
+				"stompDestination"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"pro",
+				"processXmlCallback"
+			],
+			[
+				"de",
+				"destination"
+			],
+			[
+				"stom",
+				"stompFailureCallback"
+			],
+			[
+				"stop",
+				"stompPort"
+			],
+			[
+				"stomS",
+				"stopmServer"
+			],
+			[
+				"con",
+				"connect"
+			],
+			[
+				"me",
+				"message"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"po",
+				"port"
+			],
+			[
+				"l",
+				"log"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 148,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "models/users_model.js",
+			"settings":
+			{
+				"buffer_size": 239,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "auth_server.js",
+			"settings":
+			{
+				"buffer_size": 852,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "routes.js",
+			"settings":
+			{
+				"buffer_size": 1321,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "controllers/users_controller.js",
+			"settings":
+			{
+				"buffer_size": 2248,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/nodeExmaples/example/example1.js",
+			"settings":
+			{
+				"buffer_size": 1125,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 311.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 444.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/nodeExmaples/userApp/controllers/users.controller.js",
+		"/C/nodeExmaples/angular/index.html",
+		"/C/nodeExmaples/angular/app.js",
+		"/C/nodeExmaples/example/example1.js",
+		"/C/nodeExmaples/example/views/main_jade.jade",
+		"/C/nodeExmaples/example/views/user_jade.jade",
+		"/C/nodeExmaples/example/public/index.html",
+		"/C/nodeExmaples/example/views/user.jade",
+		"/C/nodeExmaples/example/views/main.jade",
+		"/C/workspaceCapacita/tut-rest-master/2/complete/src/main/java/com/yummynoodlebar/rest/controller/OrderCommandsController.java",
+		"/C/workspaceCapacita/tut-rest-master/2/complete/src/main/java/com/yummynoodlebar/core/services/OrderEventHandler.java",
+		"/C/workspaceCapacita/tut-rest-master/2/complete/src/main/java/com/yummynoodlebar/core/events/orders/DeleteOrderEvent.java",
+		"/C/TEMPO/index.html",
+		"/C/TEMPO/DATA2.xml",
+		"/C/Sbm/Data/Packages/User/Package Control.sublime-settings",
+		"/C/workspaceCapacita/tut-rest-master/initial/src/main/java/com/yummynoodlebar/core/domain/Order.java",
+		"/C/workspaceCapacita/tut-rest-master/initial/src/main/java/com/yummynoodlebar/core/domain/OrderStatus.java",
+		"/C/workspaceCapacita/tut-rest-master/initial/src/main/java/com/yummynoodlebar/core/domain/Customer.java",
+		"/C/workspaceCapacita/tut-rest-master/initial/src/main/java/com/yummynoodlebar/core/domain/PaymentDetails.java",
+		"/C/workspaceCapacita/tut-rest-master/initial/src/main/java/com/yummynoodlebar/core/events/CreatedEvent.java",
+		"/C/workspaceCapacita/tut-rest-master/initial/src/main/java/com/yummynoodlebar/core/events/CreateEvent.java",
+		"/C/workspaceCapacita/tut-rest-master/initial/src/main/java/com/yummynoodlebar/core/events/DeletedEvent.java",
+		"/C/workspaceCapacita/tut-rest-master/initial/src/main/java/com/yummynoodlebar/core/events/DeleteEvent.java",
+		"/C/workspaceCapacita/tut-rest-master/initial/src/main/java/com/yummynoodlebar/core/events/ReadEvent.java",
+		"/C/TEMPO/DATA.xml",
+		"/C/nodeExmaples/rtls-console/views/layout.jade",
+		"/C/nodeExmaples/angular/angular.min.js",
+		"/C/nodeExmaples/socketio/spc-parser.js",
+		"/C/nodeExmaples/socketio/app.js",
+		"/C/nodeExmaples/socketio/spc-stomp.js",
+		"/C/nodeExmaples/socketio/package.json",
+		"/C/nodeExmaples/socketio/.gitignore",
+		"/C/nodeExmaples/socketio/node_modules/parser.js",
+		"/C/nodeExmaples/socketio/npm-debug.log",
+		"/C/apache-activemq-5.10.0/conf/activemq.xml",
+		"/C/apache-activemq-5.10.0/data/activemq.log",
+		"/C/apache-activemq-5.10.0/data/audit.log",
+		"/C/apache-activemq-5.10.0/data/wrapper.log",
+		"/C/nodeExmaples/rtls-console/Gruntfile.js",
+		"/C/nodeExmaples/rtls-console/public/js/socket.js",
+		"/C/nodeExmaples/rtls-console/public/javascripts/app/apps.js",
+		"/C/apache-activemq/conf/camel.xml",
+		"/C/apache-activemq/conf/activemq.xml",
+		"/C/nodeExmaples/rtls-console/views/index.jade",
+		"/C/nodeExmaples/socketio/bin/www",
+		"/C/apache-activemq/conf/activemq-demo.xml",
+		"/C/apache-activemq/conf/activemq-command.xml",
+		"/C/apache-activemq/example/conf/activemq.xml",
+		"/C/apache-activemq/bin/win32/wrapper.exe",
+		"/C/nodeExmaples/test-generator/app/scripts/controllers/main.js",
+		"/C/nodeExmaples/rtls-console/package.json",
+		"/C/nodeExmaples/rtls-console/public/js/rtls-console.min.js",
+		"/C/nodeExmaples/rtls-console/public/js/rtls-console.js",
+		"/C/nodeExmaples/Angular-Design-Patterns-Best-Practices/js/app.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"T5",
+			"port",
+			"debug",
+			"AMQP"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "package.json",
+					"settings":
+					{
+						"buffer_size": 148,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								146,
+								146
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "models/users_model.js",
+					"settings":
+					{
+						"buffer_size": 239,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								239,
+								239
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "auth_server.js",
+					"settings":
+					{
+						"buffer_size": 852,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								782,
+								788
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "routes.js",
+					"settings":
+					{
+						"buffer_size": 1321,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								118,
+								118
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "controllers/users_controller.js",
+					"settings":
+					{
+						"buffer_size": 2248,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								432,
+								432
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/nodeExmaples/example/example1.js",
+					"settings":
+					{
+						"buffer_size": 1125,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								193,
+								97
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/nodeExmaples/angular/angular.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 243.0,
+	"status_bar_visible": true
+}
