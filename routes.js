@@ -9,11 +9,6 @@ module.exports = function( app ){
 		use('/lib', express.static('../lib'));
 
 
-	app.get('/index', function(req, res){		
-		res.render('home');		
-	});
-
-
 	app.get('/', function(req, res){
 		if( req.session.user ){
 			res.render('index', { username: req.session.username, msg: req.session.msg });			
@@ -56,6 +51,6 @@ module.exports = function( app ){
 	app.post( '/user/update', users.updateUser );
 	app.post( '/user/delete', users.deleteUser );
 	app.post( '/login', users.login );
-	app.post( '/user/profile', users.getUserProfile );
+	app.get( '/user/profile', users.getUserProfile );
 			
 }

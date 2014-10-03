@@ -13,6 +13,7 @@
 		"crypto" : "0.0.3",
 		"express" : "4.9.5",
 		"express-session" : "1.8.2",
-		"mongoose" : "3.8.16"
+		"mongoose" : "3.8.16",
+		"jade" : "1.7.0"
 	}
 }

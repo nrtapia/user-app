@@ -1,0 +1,44 @@
+extends main
+block title
+	title User Profile
+
+block subtitle
+	h3.text-muted User Profile
+
+block content
+
+	div.row.marketing( ng-app="myApp" )
+
+		form.form-horizontal(role="form" method="POST" action="/user/update" ng-controller="myController")
+
+			div.form-group
+				label.col-sm-2.control-label(for="username") Username
+				div.col-sm-5
+					input.form-control(type="text" id="username" name="username" ng-model="user.username" disabled)
+
+			div.form-group
+				label.col-sm-2.control-label(for="email") Email
+				div.col-sm-5
+					input.form-control(type="email" id="email" name="email" ng-model="user.email")
+
+			div.form-group
+				label.col-sm-2.control-label(for="color") Favorite color
+				div.col-sm-5
+					input.form-control(type="text" id="color" name="color" ng-model="user.color")
+
+			div.form-group
+				div.col-sm-offset-2.col-sm-10
+					input.btn.btn-default(type="submit" value="Save")
+
+		form.form-horizontal(role="form" method="POST" action="/user/delete")
+			div.form-group
+				div.col-sm-offset-2.col-sm-10
+					input.btn.btn-danger(type="submit" value="Delete User")
+
+
+		- if (msg)
+			div.alert.alert-danger(role="alert") #{msg}
+		- if (error)
+			div.alert.alert-danger(role="alert") #{error}
+
+	script(src="js/angular.min.js") 

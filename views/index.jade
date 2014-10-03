@@ -1,0 +1,13 @@
+extends main
+block title
+	title User Login and Sessions
+
+block subtitle
+	h3.text-muted Welcome
+
+block content
+	div.row.marketing( ng-controller="myController" )
+		h2 You are Logged In as #{username}		
+		
+	div.alert.alert-info(role="alert") #{msg}
+
